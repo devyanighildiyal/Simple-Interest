@@ -3,11 +3,11 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ### Input:
 
-   p, principal amount
+  1) p, principal amount
    
-   t, time period in years
+  2) t, time period in years
    
-   r, annual rate of interest
+  3) r, annual rate of interest
    
 ### Output
 
